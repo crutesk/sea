@@ -19,6 +19,7 @@ __sea_run () {
     npm run build-watch
 }
 
+# Dosyayı 'Shellfile' olarak dizine kaydediniz.
 # Çalıştırmak için:
 # sea run
 ```
